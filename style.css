@@ -1,6 +1,11 @@
+body{
+background-image:url("http://media.gettyimages.com/videos/futuristic-abstract-background-blue-loopable-technology-video-id135906299?s=640x640");
+color:white;
+}
 img{
     size: 100%;
+    border:dashed;
 }
-header{
-    background-color: black;
+button{
+    color:black;
 }
